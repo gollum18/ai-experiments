@@ -1,4 +1,4 @@
-# ai-expermients
+# ai-experiments
 This repository contains projects generated entirely by AI.
 
 ## ai-calc
